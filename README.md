@@ -3,7 +3,7 @@ LM317K, LM337K, LM7805, LM7905 tümdevrelerini kullanarak tasarladığım -/+5VD
 Ayarlı gerilim artırılırken belirli bir gerilime ulaştığında bir röle aracılığıyla transformatörün yüksek kademe sargılarına bağlanır, gerilim belirli bir değere azaltıldığında yeniden düşük kademe sargılarına bağlanır.
 -5V, -VADJ, +VADJ çıkışları GND'ye kısadevre olduğunda bir KISADEVRE LED'i ışıldar ve röle düşük kademe sargılara çekilir. Röle devresini NE555 tümdevresi ile yaptım. Kısadevre algılama devre bloğunu transistörlerle yaptım.
 
-İlgili YouTube vidomun linki budur;
+İlgili YouTube videomun linki budur;
 https://www.youtube.com/watch?v=w1wSNmGGcDY
 
 YouTube kanalımın linki budur;
